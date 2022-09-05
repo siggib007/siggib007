@@ -4,6 +4,8 @@
 - More of a script kiddie than a developer. I do OK putting something together in python, PHP or vbScript, that's not overly complex
 - 👀 I’m interested in all sorts of things. you can find out more about me at https://supergeek.us
 - 📫 You can reach me at siggi@supergeek.us
+- My Twitter handle is siggib007
+- My PyPi Profile can be found at https://pypi.org/user/siggib/
 
 <!---
 siggib007/siggib007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
