@@ -6,7 +6,7 @@
 - 📫 You can reach me at siggi@supergeek.us
 - My Twitter handle is siggib007 https://twitter.com/siggib007
 - My PyPi Profile can be found at https://pypi.org/user/siggib/
-- You can find me on <a rel="me" href="https://infosec.exchange/@siggib">Mastodon as @siggib@infosec.exchange</a>
+- You can find me on <a rel="me" href="https://infosec.exchange/@siggib">Mastodon</a> as ``@siggib@infosec.exchange``
 
 <!---
 siggib007/siggib007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
